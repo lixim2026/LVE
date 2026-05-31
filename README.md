@@ -1,5 +1,5 @@
 # LVE
-Lx Land
+Lx Language
 # License Statement
 Copyright © 2026 Lix Studio. All Rights Reserved.
 
